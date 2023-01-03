@@ -1,0 +1,67 @@
+baseURL: ""
+languageCode: en-us
+title: karol's blog
+theme: PaperMod
+
+params:
+  socialIcons:
+    - name: github
+      url: 'www.githib.com'
+    - name: twitter
+      url: 'www.twitter.com'
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        homeInfoParams:
+          Title: "Hi! I'm Karol :)"
+          Content: Here I share a little bit of my experiences and thoughts.
+        socialIcons:
+          - name: "github"
+            url: ""
+          - name: "twitter"
+            url: ""
+          - name: "facebook"
+            url: ""
+        menu:
+            main:
+                - name: Archive
+                  url: archives/
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+
+    pt:
+        languageName: ":pt:"
+        languageAltTitle: Portuguese
+        weight: 2
+        homeInfoParams:
+          Title: "Oie! Eu sou a Karol :)"
+          Content: Aqui eu compartilho um pouquinho das minhas experiências e reflexões.
+        socialIcons:
+          - name: "github"
+            url: ""
+          - name: "twitter"
+            url: ""
+          - name: "facebook"
+            url: ""
+        menu:
+            main:
+                - name: Archive
+                  url: archives/
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10

@@ -13,6 +13,11 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 languages:
     en:

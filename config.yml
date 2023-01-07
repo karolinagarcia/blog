@@ -4,11 +4,6 @@ title: karol's blog
 theme: PaperMod
 
 params:
-  socialIcons:
-    - name: github
-      url: 'www.githib.com'
-    - name: twitter
-      url: 'www.twitter.com'
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
@@ -27,14 +22,21 @@ languages:
           Title: "Hi! I'm Karol :)"
           Content: Here I share a little bit of my experiences and thoughts.
         socialIcons:
-          - name: "github"
-            url: ""
-          - name: "twitter"
-            url: ""
-          - name: "facebook"
-            url: ""
+          - name: github
+            url: 'https://github.com/karolinagarcia'
+          - name: twitter
+            url: 'https://twitter.com/karolinatgarcia'
+          - name: linkedin
+            url: 'https://www.linkedin.com/in/karolinagarcia/'
+          - name: facebook
+            url: 'https://www.facebook.com/karolinatgarcia'
+          - name: instagram
+            url: 'https://www.instagram.com/karolinatgarcia/'
         menu:
             main:
+                - name: About
+                  url: ../
+                  weight: 1
                 - name: Archive
                   url: archives/
                   weight: 5
@@ -53,14 +55,21 @@ languages:
           Title: "Oie! Eu sou a Karol :)"
           Content: Aqui eu compartilho um pouquinho das minhas experiências e reflexões.
         socialIcons:
-          - name: "github"
-            url: ""
-          - name: "twitter"
-            url: ""
-          - name: "facebook"
-            url: ""
+          - name: github
+            url: 'https://github.com/karolinagarcia'
+          - name: twitter
+            url: 'https://twitter.com/karolinatgarcia'
+          - name: linkedin
+            url: 'https://www.linkedin.com/in/karolinagarcia/'
+          - name: facebook
+            url: 'https://www.facebook.com/karolinatgarcia'
+          - name: instagram
+            url: 'https://www.instagram.com/karolinatgarcia/'
         menu:
             main:
+                - name: About
+                  url: ../
+                  weight: 1
                 - name: Archive
                   url: archives/
                   weight: 5

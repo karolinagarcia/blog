@@ -2,7 +2,7 @@
 title: "Primeira postagem"
 date: 2023-01-01T21:36:32-05:00
 draft: false
-tags: ["journal","life"]
+tags: ["diário","vida"]
 categories: ["tech"]
 ---
 

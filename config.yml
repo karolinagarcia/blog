@@ -4,6 +4,7 @@ title: karol's blog
 theme: PaperMod
 
 params:
+  env: production
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
@@ -20,16 +21,16 @@ languages:
         weight: 1
         homeInfoParams:
           Title: "Hi! I'm Karol :)"
-          Content: Here I share a little bit of my experiences and thoughts.
+          Content: Here I share a little bit of my thoughts and experiences.
         socialIcons:
+          - name: email
+            url: 'mailto:karolinagarcia.contact@gmail.com'
           - name: github
             url: 'https://github.com/karolinagarcia'
-          - name: twitter
-            url: 'https://twitter.com/karolinatgarcia'
           - name: linkedin
             url: 'https://www.linkedin.com/in/karolinagarcia/'
-          - name: facebook
-            url: 'https://www.facebook.com/karolinatgarcia'
+          - name: twitter
+            url: 'https://twitter.com/karolinatgarcia'
           - name: instagram
             url: 'https://www.instagram.com/karolinatgarcia/'
         menu:
@@ -55,14 +56,14 @@ languages:
           Title: "Oie! Eu sou a Karol :)"
           Content: Aqui eu compartilho um pouquinho das minhas experiências e reflexões.
         socialIcons:
+          - name: email
+            url: 'mailto:karolinagarcia.contact@gmail.com'
           - name: github
             url: 'https://github.com/karolinagarcia'
-          - name: twitter
-            url: 'https://twitter.com/karolinatgarcia'
           - name: linkedin
             url: 'https://www.linkedin.com/in/karolinagarcia/'
-          - name: facebook
-            url: 'https://www.facebook.com/karolinatgarcia'
+          - name: twitter
+            url: 'https://twitter.com/karolinatgarcia'
           - name: instagram
             url: 'https://www.instagram.com/karolinatgarcia/'
         menu:

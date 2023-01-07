@@ -1,12 +1,12 @@
 ---
 title: "First post"
-date: 2022-12-29T21:36:32-05:00
+date: 2023-01-01T21:36:32-05:00
 draft: false
-tags: ["html","css"]
+tags: ["journal","life"]
 categories: ["tech"]
 ---
 
-# Heading
-## Heading two
+# Testing,
+## testing...
 
-This is a paragraph
+This will be my very first post. And it's coming soon, I promise.

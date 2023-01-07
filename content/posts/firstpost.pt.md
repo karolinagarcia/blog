@@ -1,12 +1,12 @@
 ---
 title: "Primeira postagem"
-date: 2022-12-29T21:36:32-05:00
+date: 2023-01-01T21:36:32-05:00
 draft: false
-tags: ["html","css"]
+tags: ["journal","life"]
 categories: ["tech"]
 ---
 
-# Oi
-## Um, dois, três
+# Testando,
+## testando...
 
-Esse é um parágrafo
+Essa vai ser a minha primeira postagem por aqui. E já já vem, eu prometo.

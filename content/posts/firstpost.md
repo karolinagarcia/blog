@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my space!"
-date: 2023-01-01T17:00:00-05:00
+date: 2023-01-30T17:00:00-05:00
 draft: false
 tags: ["journal","life"]
 categories: ["journal"]

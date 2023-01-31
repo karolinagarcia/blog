@@ -1,6 +1,6 @@
 ---
 title: "Boas-vindas ao meu espaço!"
-date: 2023-01-01T17:00:00-05:00
+date: 2023-01-30T17:00:00-05:00
 draft: false
 tags: ["diário","vida"]
 categories: ["diário"]

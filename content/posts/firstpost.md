@@ -8,11 +8,11 @@ categories: ["journal"]
 
 ## Trying to explain what this blog will be about...
 
-(If you'd like to read this post in Portuguese, you may change the language to "pt" on the top of this page.)
+> If you'd like to read it in Portuguese, you may change the language to "pt" on the top of this page.
 
-This is my very first post! I wouldn't know how to introduce/define myself in a few words, so I'll leave it to the future posts to tell. If you're curious to know at least a little bit about me, you may check out my webpage, instagram, or twitter accounts.
+This is my very first post! I wouldn't know how to introduce/define myself in a few words, so I'll leave it to the future posts to tell. If you're curious to know at least a little bit about me, you may check out my [web page](https://www.karolinagarcia.github.io), [Instagram](https://www.instagram.com/karolinatgarcia/) and/or [Twitter](https://twitter.com/karolinatgarcia) accounts.
 
-I don't know yet what shape exactly this blog will come out to have. However, I'm thinking about covering a mix of the following topics:
+I don't know what shape this blog will come out to have yet. However, I'm thinking about covering a mix of the following topics:
 
 - work/career (right now I'm a PhD student in Astronomy, but who knows where life will lead me to)
 - cool science stuff related to my projects
@@ -24,4 +24,4 @@ I don't know yet what shape exactly this blog will come out to have. However, I'
 
 If you already know me, either in person or from social media, and would like to "hear" my thoughts and experiences about anything specifically, please let me know.
 
-I appologize in advance for any Engligh mistakes you may encounter, or for the lack of fancier words. English is not my first language, and I really don't want to stress out too much about it here. I want this to be a space for me to realease my thoughts as they come out of my mind, and help other people understand better their inner and outer universes.
+I appologize in advance for any English mistakes you may encounter, or for the lack of fancier words. English is not my first language, and I really don't want to stress out too much about it here. I want this to be a space for me to realease my thoughts as they come out of my mind, and help other people understand better their inner and outer universes.

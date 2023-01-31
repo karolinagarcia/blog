@@ -2,12 +2,14 @@ baseURL: "https://karolinagarcia.github.io/blog"
 languageCode: en-us
 title: karol's blog
 theme: PaperMod
+#disqusShortname: karolsblog
 
 params:
   env: production
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
+  comments: true
 
 outputs:
     home:
@@ -35,7 +37,7 @@ languages:
             url: 'https://www.instagram.com/karolinatgarcia/'
         menu:
             main:
-                - name: About
+                - name: About me
                   url: ../
                   weight: 1
                 - name: Archive
@@ -68,13 +70,13 @@ languages:
             url: 'https://www.instagram.com/karolinatgarcia/'
         menu:
             main:
-                - name: About
+                - name: Sobre mim
                   url: ../
                   weight: 1
-                - name: Archive
+                - name: Arquivo
                   url: archives/
                   weight: 5
-                - name: Search
+                - name: Busca
                   url: search/
                   weight: 10
                 - name: Tags
